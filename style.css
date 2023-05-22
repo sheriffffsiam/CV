@@ -1,0 +1,52 @@
+body {
+    background-color:#222831; 
+ }
+ h1{
+    font-style: italic;
+ }
+ h2{
+    color: orangered;
+    font-style: italic;
+ }
+ hr{
+    border-style: dotted none none;
+    border-color: gray;
+    border-width: 5px;
+    height: 1px;
+    width: 2cm;
+ }
+ input{
+    background-color:whitesmoke
+ }
+ input:hover{
+   background-color: black;
+   color: aliceblue;
+ }
+ textarea{
+    background-color:whitesmoke
+ }
+ textarea:hover{
+   background-color: black;
+   color: aliceblue;
+ }
+ :any-link{
+   color:chocolate
+ }
+ :any-link:hover{
+   color: azure;
+ }
+ table{
+   color: beige;
+ }
+ ul{
+   color: beige;
+   list-style:disc
+
+
+
+ }
+ .contact{
+   color: darkgoldenrod;
+   font-style: italic;
+   font-size: larger;
+ }
